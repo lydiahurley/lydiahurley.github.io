@@ -1,0 +1,28 @@
+body {
+    font-size: 50px;
+    font-weight: 50;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 20;
+    color: black
+}
+
+h2 {
+    font-size: 100px;
+    font-weight: 20;
+    color: #1c8c5e
+}
+
+.logo {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+footer {
+    font-size: 40px;
+    font-weight: 05;
+    color: black
+}
