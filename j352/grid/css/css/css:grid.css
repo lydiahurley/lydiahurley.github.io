@@ -1,20 +1,21 @@
 #css.grid.css
 body{
     margin:5em 0;
-    font-size:15px;
-}
-
-
+    font-size: large;
 
 .row,
 .col-md-6,
 .col-sm-1,
 .col-sm-3,
-.col-md-6
-.col-md-6
 .col-sm-6{
     margin:0;
     padding:0;
+}
+p{
+    font-size: large;
+}
+h1{
+font-size: 500px;
 }
 
 .blurb{
