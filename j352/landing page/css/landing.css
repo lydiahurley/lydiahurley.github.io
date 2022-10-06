@@ -1,29 +1,32 @@
-#landing.css body {
+body {
     margin: 5em 0;
-    font-size: 1000px;
+    font-size: 10px;
+}
 
-    .row,
-    .col-md-6,
-    .col-sm-1,
-    .col-sm-3,
-    .col-sm-6 {
-        margin: 0;
-        padding: 0;
-    }
+.row,
+.col-md-6,
+.col-sm-1,
+.col-sm-3,
+.col-sm-6 {
+    margin: 0;
+    padding: 0;
+}
 
-    p {
-        font-size: large;
-    }
+p {
+    font-size: large;
+}
 
-    h1,
-    h2,
-    h3 {
-        font-size: 1000px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: 100;
-        font-weight: lighter;
-    }
+h1{
+    font-size: 4em;
+}
+h2,
+h3 {
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-weight: lighter;
+}
 
-    .blurb {
-        padding: 0 1em 0 0
-    }
+.blurb {
+    padding: 0 1em 0 0
+}
