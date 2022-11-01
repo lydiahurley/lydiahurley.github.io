@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/portfolio.css">
+    <link rel="stylesheet" href="html/css/portfolio.css">
 </head>
 
 <!-- LANDING PAGE -->
@@ -32,32 +32,80 @@
         <div class="container-fluid"></div>
         <div class="row">
             <div class="col-lg dark">
-                <h1>Lydia Hurley</h1>
-                <h2> Professional Porfolio </h2>
+                <h1>Resume</h1>
                 <div class="row align-items-right">
                     <div class="col-lg-6 white">
-                        <img src="hshot.jpeg" alt="headshot" class="img-fluid">
+                
                     </div>
 
-                    <h3>Journalism + GVPT Student
-                        <br>
-                        The University of Maryland
-                        <br>
+                    <h3><i> Work + Career Experience</i>
                     </h3>
 
-
+                    <br>
                 </div>
             </div>
 
     </body>
 
+<h4>
+    <br>
+ Research Assistant
+    <br> 
+    UMD Government and Politics Program
+    <br>
+    College Park, MD
+    <br>
+    September 2022-Present
+    <br>
+    <br>
+    <br>
+    Teaching Assistant
+       <br> 
+       UMD Government and Politics Program
+       <br>
+          College Park, MD
+          <br>
+       September 2022-December 2022
+       <br>
+       <br>
 
+       <br>
+       Event Staff
+          <br> 
+         The Hall CP
+         <br>
+          College Park, MD
+          <br>
+          August 2022- Present
+    
+          <br>
+          <br>
+          Housekeeping Inspector
+             <br> 
+             Rising Sun Motor Inn
+             <br>
+             Glacier National Park, MT
+             <br>
+             May 2022-August 2022
+             <br>
+          <br>
+          Front-of-House
+             <br> 
+             Settler Restaurant
+             <br>
+             Salem, MA
+             <br>
+             June 2021-August 2022
+             <br>
+             <br>
+
+</h4>
 
     <nav>
         <h4>
-            <a href="about/about">About Me!</a>
+            
             <br>
-            <a href="resume/resume.html">Resume</a>
+            <a href="resume">Resume</a>
             <br>
             <a href="/clips/">Clips</a>
             <br>
