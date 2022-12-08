@@ -25,9 +25,9 @@ p{
 font-size: 20px;
 font-family: 'Mukta', sans-serif;
 }
-.footer{
-    color: black; 
-    font-size: 25px;
+footer{
+    color: grey; 
+    font-size: 15px;
     font-family: 'Work Sans', sans-serif;
 }
 
