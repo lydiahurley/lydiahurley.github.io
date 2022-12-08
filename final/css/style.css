@@ -1,33 +1,49 @@
-h1{
-color: #045c44;
-font-size: 90px;
-font-family:Impact;
+h1 {
+    color: #045c44;
+    font-size: 90px;
+    font-family: Impact;
 }
-h2{
-color: black; 
-font-size: 25px;
-font-family: 'Work Sans', sans-serif;
+
+h2 {
+    color: black;
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
 }
-h3{
-    color: black; 
+
+h3 {
+    color: black;
     font-size: 20px;
     font-family: 'Work Sans', sans-serif;
     font-style: italic;
 }
-h4{
-    color: grey; 
+
+h4 {
+    color: grey;
     font-size: 15px;
     font-family: 'Work Sans', sans-serif;
     font-style: italic;
 
 }
-p{
-font-size: 20px;
-font-family: 'Mukta', sans-serif;
+
+p {
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
 }
-footer{
-    color: grey; 
+
+footer {
+    color: grey;
     font-size: 15px;
     font-family: 'Work Sans', sans-serif;
 }
 
+@media only screen and (min-width: 601px) {
+    body {
+        font-size: 80px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 30px;
+    }
+}
